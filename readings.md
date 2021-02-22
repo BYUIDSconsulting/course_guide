@@ -37,6 +37,8 @@ We will have periodic readings covering the topics of `ethics` and `consulting`.
 - [raw data is an oxymoron excerpts](http://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf)
 - [FTC Unfairness and Big Data](https://iapp.org/news/a/unfair-or-is-it-big-data-and-the-ftcs-unfairness-jurisdiction/)
 - [Of beauty, sex, and power: Statistical challenges in estimating small effects](http://www.stat.columbia.edu/~gelman/research/unpublished/power.pdf)
+- [What If Data Scientists Had Licenses Like Lawyers?](https://www.bloomberg.com/opinion/articles/2020-12-07/what-if-data-scientists-had-licenses-like-lawyers)
+- [Rush Limbaugh died from lung cancer after denying smoking's risk. Why'd he believe his lie?](https://www.nbcnews.com/think/opinion/rush-limbaugh-died-lung-cancer-after-denying-smoking-s-risk-ncna1258395)
 
 
 ## Consulting in Statistics and Data Science
