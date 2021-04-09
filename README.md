@@ -1,7 +1,8 @@
 # Welcome
 
-
-Current trends among industries ranging from insurance to manufacturing (as well as many other professions) are pushing the need for data literacy and team based problem solving. *MATH 488 - Data Science and Statistical Consulting* provides learners with an experience that mimics industry implementation of data handling, data analysis, and project complexity.
+|    |   |
+|----|----|
+|![](M488_Hex_v2.png) | Current trends among industries ranging from insurance to manufacturing (as well as many other professions) are pushing the need for data literacy and team based problem solving. *MATH 488 - Data Science and Statistical Consulting* provides learners with an experience that mimics industry implementation of data handling, data analysis, and project complexity. |
 
 The course is designed to support our mathematical sciences and data science majors as well as our statistics and data science minors. 
 
