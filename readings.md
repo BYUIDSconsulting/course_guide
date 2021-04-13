@@ -10,6 +10,11 @@ We will have periodic readings covering the topics of `ethics` and `consulting`.
 - [Data Science Teams at Coursera](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae)
 - [At Airbnb, Data Science Belongs Everywhere](https://medium.com/airbnb-engineering/at-airbnb-data-science-belongs-everywhere-917250c6beba)
 - [Data-Driven Decision Making: Beware Of The HIPPO Effect!](https://www.forbes.com/sites/bernardmarr/2017/10/26/data-driven-decision-making-beware-of-the-hippo-effect/#9d6ba1f80f9f)
+- [Managing a Data Science Team](https://hbr.org/2018/10/managing-a-data-science-team)
+- [On Building Effective Data Science Teams](https://www.kdnuggets.com/2019/03/building-effective-data-science-teams.html)
+- [How to Structure a Data Science Team: Key Models and Roles to Consider](https://www.altexsoft.com/blog/datascience/how-to-structure-data-science-team-key-models-and-roles/)
+- [How to Lead Data Science Teams](https://www.datascience-pm.com/how-to-lead-data-science-teams/)
+- [Transitioning from data scientist to data science leader](https://blog.insightdatascience.com/transitioning-from-data-scientist-to-data-science-leader-9b4480f7d865)
 
 ## Ethics in Data 
 
