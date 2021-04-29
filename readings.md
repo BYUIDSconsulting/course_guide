@@ -27,7 +27,7 @@ We will have periodic readings covering the topics of `ethics` and `consulting`.
 - [Big Data and Civil Rights](http://solveforinteresting.com/big-data-is-our-generations-civil-rights-issue-and-we-dont-know-it/)
 - [Big Data Ethics](https://www.forbes.com/sites/oreillymedia/2014/03/28/whats-up-with-big-data-ethics/#2ee019793591)
 - [The ethics of web scraping](https://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/)
-- [Big data snd Its Exclusions](https://www.stanfordlawreview.org/online/privacy-and-big-data-big-data-and-its-exclusions/)
+- [Big data and Its Exclusions](https://www.stanfordlawreview.org/online/privacy-and-big-data-big-data-and-its-exclusions/)
 - [Big data and the Underground Railroad](http://www.slate.com/articles/technology/future_tense/2014/11/big_data_underground_railroad_history_says_unfettered_collection_of_data.single.html)
 - [Machine Learning, Physiognomy, and Hidden Bias](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a)
 - [The Ethical Choice Game and Driverless Cars](http://moralmachine.mit.edu/)
