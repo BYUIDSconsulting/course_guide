@@ -12,7 +12,6 @@ We will have periodic readings covering the topics of `ethics` and `consulting`.
 - [Data-Driven Decision Making: Beware Of The HIPPO Effect!](https://www.forbes.com/sites/bernardmarr/2017/10/26/data-driven-decision-making-beware-of-the-hippo-effect/#9d6ba1f80f9f)
 - [Managing a Data Science Team](https://hbr.org/2018/10/managing-a-data-science-team)
 - [On Building Effective Data Science Teams](https://www.kdnuggets.com/2019/03/building-effective-data-science-teams.html)
-- [How to Structure a Data Science Team: Key Models and Roles to Consider](https://www.altexsoft.com/blog/datascience/how-to-structure-data-science-team-key-models-and-roles/)
 - [Data Scientists: Generalists or specialists?](https://www.oreilly.com/content/data-scientists-generalists-or-specialists/)
 - [How to Lead Data Science Teams](https://www.datascience-pm.com/how-to-lead-data-science-teams/)
 - [Transitioning from data scientist to data science leader](https://blog.insightdatascience.com/transitioning-from-data-scientist-to-data-science-leader-9b4480f7d865)
@@ -61,6 +60,9 @@ We will have periodic readings covering the topics of `ethics` and `consulting`.
 - [Data science job-seeking advice to my younger self](https://towardsdatascience.com/data-science-job-seeking-advice-to-my-younger-self-7be10a601030)
 - [How to spot red flags in a data science job opportunity](https://towardsdatascience.com/how-to-spot-red-flags-in-a-data-science-job-opportunity-22191e71f21)
 
+## Voted Down
+
+- [How to Structure a Data Science Team: Key Models and Roles to Consider](https://www.altexsoft.com/blog/datascience/how-to-structure-data-science-team-key-models-and-roles/)
 
 ## Random Stuff
 
