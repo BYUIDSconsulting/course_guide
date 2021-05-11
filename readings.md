@@ -45,6 +45,7 @@ We will have periodic readings covering the topics of `ethics` and `consulting`.
 - [What If Data Scientists Had Licenses Like Lawyers?](https://www.bloomberg.com/opinion/articles/2020-12-07/what-if-data-scientists-had-licenses-like-lawyers)
 - [Rush Limbaugh died from lung cancer after denying smoking's risk. Why'd he believe his lie?](https://www.nbcnews.com/think/opinion/rush-limbaugh-died-lung-cancer-after-denying-smoking-s-risk-ncna1258395)
 - [What is an “algorithm”? It depends whom you ask](https://www.technologyreview.com/2021/02/26/1020007/what-is-an-algorithm/)
+- [Big Data and Their Epistemological Challenge](https://rd.springer.com/article/10.1007/s13347-012-0093-4)
 
 
 ## Consulting in Statistics and Data Science
