@@ -26,7 +26,7 @@ Grading is a nasty side effect of mass learning and academia.  We are in a class
 
 *You will be responsible for delivering the following.* All of these items should be submitted electronically.
 
-1. Growth cover letter
+1. Growth cover letter, which includes:
    - a few sentences about your team members. They will not see this text.
    - key ideas and benefits from this class.  Went well?  Could be better?
    - a summary of your total hours and your final grade request. You need to [submit your hours weekly](time.md)
