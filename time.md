@@ -12,6 +12,6 @@ Another crucial learning principle is for you to learn how long it takes you to 
 
 ## Time Tracking
 
-We will use [clockify.me](https://clockify.me/) to report our hours each week. Each of you should have received an invite to join our group. They have [iOS and Mac apps](https://clockify.me/apps) and will have Android apps soon.  We can all use their webpage log in to track our hours.
+We will use [Harvest Time Tracking](https://byui.harvestapp.com/) to report our hours each week. Each of you should have received an invite to join our group. They have [iOS, Android, Mac, and Windows apps](https://www.getharvest.com/apps).  We can all use their webpage log in to track our hours.
 
 
