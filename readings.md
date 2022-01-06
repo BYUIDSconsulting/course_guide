@@ -35,7 +35,7 @@ We will have periodic readings covering the topics of `ethics` and `consulting`.
 - [Ethics in Data Science in 5 minutes](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you)
 - [Hidden Biases in Big Data](https://hbr.org/2013/04/the-hidden-biases-in-big-data)
 - [How big data is unfair](https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de)
-- [The Nuremburg Code](https://history.nih.gov/research/downloads/nuremberg.pdf)
+- [The Nuremburg Code](https://www.ushmm.org/information/exhibitions/online-exhibitions/special-focus/doctors-trial/nuremberg-code)
 - [Who decides the ethics](https://www.wired.com/2016/05/scientists-just-confused-ethics-big-data-research/)
 - [Universal principles of data ethics](https://www.accenture.com/t20160629T012639Z__w__/us-en/_acnmedia/PDF-24/Accenture-Universal-Principles-Data-Ethics.pdf)
 - [responsible big data research rules](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)
