@@ -15,6 +15,7 @@ We will have periodic readings covering the topics of `ethics` and `consulting`.
 - [Data Scientists: Generalists or specialists?](https://www.oreilly.com/content/data-scientists-generalists-or-specialists/)
 - [How to Lead Data Science Teams](https://www.datascience-pm.com/how-to-lead-data-science-teams/)
 - [Transitioning from data scientist to data science leader](https://blog.insightdatascience.com/transitioning-from-data-scientist-to-data-science-leader-9b4480f7d865)
+- [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
 
 ## Ethics in Data 
 
@@ -60,6 +61,10 @@ We will have periodic readings covering the topics of `ethics` and `consulting`.
 - [Lyft and solving business problems](https://eng.lyft.com/empowering-personalized-marketing-with-machine-learning-fd36e6bdeca6)
 - [Data science job-seeking advice to my younger self](https://towardsdatascience.com/data-science-job-seeking-advice-to-my-younger-self-7be10a601030)
 - [How to spot red flags in a data science job opportunity](https://towardsdatascience.com/how-to-spot-red-flags-in-a-data-science-job-opportunity-22191e71f21)
+
+## On the Data Science Field
+
+- [The future history of Data Engineering](https://groupby1.substack.com/p/data-engineering)
 
 ## Voted Down
 
