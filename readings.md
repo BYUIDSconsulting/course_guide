@@ -60,6 +60,7 @@ We will have periodic readings covering the topics of `ethics` and `consulting`.
     - [Episode 8: A new Enforcement Strategy](https://www.wsj.com/podcasts/the-journal/the-facebook-files-part-8-a-new-enforcement-strategy/87b65b05-de52-40f7-bbc3-d1a5d7932201)
     - Game: [The Wisdom and/or Madness of Crowds](https://ncase.me/crowds/)
     - [Is truth discovered in social networks](https://www.mostmovedmover.com/post/is-truth-discovered-in-social-networks/)
+- [Propublica: Machine Bias Articles](https://www.propublica.org/series/machine-bias)
 
 
 ## Consulting in Statistics and Data Science
