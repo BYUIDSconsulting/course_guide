@@ -24,7 +24,7 @@ We will have periodic readings covering the topics of `ethics` and `consulting`.
 - [Gelman on p hacking](https://www.americanscientist.org/article/the-statistical-crisis-in-science)
 - [Weapons of Math Destruction Interview](https://qz.com/819245/data-scientist-cathy-oneil-on-the-cold-destructiveness-of-big-data/)
 - [Big Data, Machine Learning, and the Social Sciences: Fairness, Accountability, and Transparency](https://medium.com/@hannawallach/big-data-machine-learning-and-the-social-sciences-927a8e20460d)
-- [What insurance allready does](https://www.propublica.org/article/minority-neighborhoods-higher-car-insurance-premiums-white-areas-same-risk)
+- [Minority Neighborhoods Pay Higher Car Insurance Premiums Than White Areas With the Same Risk](https://www.propublica.org/article/minority-neighborhoods-higher-car-insurance-premiums-white-areas-same-risk), [The Car Insurance Industry Attacks Our Story. Here’s Our Response.](https://www.propublica.org/article/the-car-insurance-industry-attacks-our-story-our-response), [How We Examined Racial Discrimination in Auto Insurance Prices](https://www.propublica.org/article/minority-neighborhoods-higher-car-insurance-premiums-methodology)
 - [Big Data and Civil Rights](http://solveforinteresting.com/big-data-is-our-generations-civil-rights-issue-and-we-dont-know-it/)
 - [Big Data Ethics](https://www.forbes.com/sites/oreillymedia/2014/03/28/whats-up-with-big-data-ethics/#2ee019793591)
 - [The ethics of web scraping](https://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/)
