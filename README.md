@@ -34,4 +34,6 @@ As a successful team member, you will be able to
 
 ## Extra Information
 
-The [syllabus](syllabus.md) provides context for the details of how the class will operate and how grades will be earned.
+- The [syllabus](syllabus.md) provides context for the details of how the class will operate and how grades will be earned.
+- You can see the [reading options](readings.md) for our class conversations.
+- You can review how [time](time.md) is tracked and reported.
