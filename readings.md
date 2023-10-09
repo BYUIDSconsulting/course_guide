@@ -78,7 +78,6 @@ We will have periodic readings covering the topics of `ethics` and `consulting`.
 - [Starting a data science business](https://medium.com/@brockferguson/leaving-academia-to-start-a-data-science-company-looking-back-at-our-first-year-33dab049d965)
 - [How to compete in data science consulting](https://www.datasciencecentral.com/profiles/blogs/how-to-compete-against-data-scientists-charging-30-hour)
 - [Thoughts on statistical consulting](https://kbroman.wordpress.com/2013/04/02/thoughts-on-statistical-consulting/)
-- [Advice for the potential statistical consultant](examples/Advice_statistical_consultant.pdf)
 - [Consulting in Stats](https://www.jstor.org/tc/accept?origin=/stable/pdf/1267257.pdf?refreqid=excelsior%3A7b057a53e9445c601d81754093f44ba6)
 - [Lyft and solving business problems](https://eng.lyft.com/empowering-personalized-marketing-with-machine-learning-fd36e6bdeca6)
 - [Data science job-seeking advice to my younger self](https://towardsdatascience.com/data-science-job-seeking-advice-to-my-younger-self-7be10a601030)
