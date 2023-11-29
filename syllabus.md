@@ -32,6 +32,7 @@ Grading is a nasty side effect of mass learning and academia.  We are in a class
    - a summary of your total hours and your final grade request. You need to [submit your hours weekly](time.md)
    - a table where you score yourself on your coding, collaboration, and data handling performance
    - an explanation of your contribution to your project
+   - What are your goals when you graduate?
 2. Current resume with the skills developed in the class included as an employment item
 3. An ethics manifesto with references (no more than 750 words)
 
