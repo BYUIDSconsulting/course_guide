@@ -22,6 +22,8 @@ We will have periodic readings covering the topics of `ethics` and `consulting`.
 - [An ethical code can’t be about ethics](https://towardsdatascience.com/an-ethical-code-cant-be-about-ethics-66acaea6f16f)
 - [Ethical codes vs. ethical code](https://towardsdatascience.com/ethical-codes-vs-ethical-code-fea118987a5)
 - [Gelman on p hacking](https://www.americanscientist.org/article/the-statistical-crisis-in-science)
+- [Generative AI Takes Stereotypes and Bias From Bad to Worse](https://www.bloomberg.com/graphics/2023-generative-ai-bias/)
+- [They Studied Dishonesty. Was Their Work a Lie? | The New Yorker](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie)
 - [Weapons of Math Destruction Interview](https://qz.com/819245/data-scientist-cathy-oneil-on-the-cold-destructiveness-of-big-data/)
 - [Big Data, Machine Learning, and the Social Sciences: Fairness, Accountability, and Transparency](https://medium.com/@hannawallach/big-data-machine-learning-and-the-social-sciences-927a8e20460d)
 - [Big Data and Civil Rights](http://solveforinteresting.com/big-data-is-our-generations-civil-rights-issue-and-we-dont-know-it/)
