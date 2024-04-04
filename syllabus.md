@@ -27,12 +27,14 @@ Grading is a nasty side effect of mass learning and academia.  We are in a class
 *You will be responsible for delivering the following.* All of these items should be submitted electronically.
 
 1. Growth cover letter, which includes:
-   - a few sentences about your team members. They will not see this text.
-   - key ideas and benefits from this class.  Went well?  Could be better?
-   - a summary of your total hours and your final grade request. You need to [submit your hours weekly](time.md)
-   - a table where you score yourself on your coding, collaboration, and data handling performance
-   - an explanation of your contribution to your project
+   - How many hours did you put in this semester?
+   - What were your key contributions?
+   - How has your programming improved?
+   - How has your exploratory data analysis improved?
+   - How has your teamwork improved?
    - What are your goals when you graduate?
+   - With respect to the class, what went well? What could be better?
+   - A table where you score yourself on your coding (1-4), collaboration (1-4), and data-handling (1-4) performance. 4 is best in the group, 3 is high quality, 2 needs work, and 1 is poor ability.
 2. Current resume with the skills developed in the class included as an employment item
 3. An ethics manifesto with references (no more than 750 words)
 
