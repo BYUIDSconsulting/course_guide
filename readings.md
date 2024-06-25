@@ -71,8 +71,8 @@ We will have periodic readings covering the topics of `ethics` and `consulting`.
     - [What Algorithmic Injustice Looks Like in Real Life](https://www.propublica.org/article/what-algorithmic-injustice-looks-like-in-real-life), [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing),  [ProPublica Responds to Company’s Critique of Machine Bias Story](https://www.propublica.org/article/propublica-responds-to-companys-critique-of-machine-bias-story) and [How We Analyzed the COMPAS Recidivism Algorithm](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
     - [The Tiger Mom Tax: Asians Are Nearly Twice as Likely to Get a Higher Price from Princeton Review](https://www.propublica.org/article/asians-nearly-twice-as-likely-to-get-higher-price-from-princeton-review)
     - [Breaking the Black Box (4 Episode videos](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you)
-- [Scientists Are Just as Confused About the Ethics of Big-Data Research as You](https://www.wired.com/2016/05/scientists-just-confused-ethics-big-data-research/) (Required)
-- [Revisionist History](https://www.pushkin.fm/podcasts/revisionist-history): [The Rise of the Guinea Pigs](https://www.pushkin.fm/podcasts/revisionist-history/the-rise-of-the-guinea-pigs) with a [full transcript](https://share.descript.com/view/clnEDEyfvbI) (Required)
+- [Scientists Are Just as Confused About the Ethics of Big-Data Research as You](https://www.wired.com/2016/05/scientists-just-confused-ethics-big-data-research/)
+- [Revisionist History](https://www.pushkin.fm/podcasts/revisionist-history): [The Rise of the Guinea Pigs](https://www.pushkin.fm/podcasts/revisionist-history/the-rise-of-the-guinea-pigs) with a [full transcript](https://share.descript.com/view/clnEDEyfvbI)
     - [Revisionist History](https://www.pushkin.fm/podcasts/revisionist-history):   [The Department of Physiological Hygiene](https://arc.net/l/quote/ygfukspx) (optional before you listen to The Rise of the Guinea Pigs)
 
 ## Consulting in Statistics and Data Science
